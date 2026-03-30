@@ -5,8 +5,6 @@
 
 from ast import pattern
 from genericpath import exists
-
-
 for i in range(1,50):
     print(i)
 
