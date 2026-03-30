@@ -1,4 +1,4 @@
-[TASK-3 .PY](https://github.com/user-attachments/files/26076387/TASK-3.PY)
+
 # SECTION - 1 :- LOOP BASICS (1-10)
 
 # TASK - 1
